@@ -1,3 +1,5 @@
+<img width="1927" height="1087" alt="student-project-3" src="https://github.com/user-attachments/assets/259a9c99-e744-40be-8997-d7e9c98f1d14" />
+<img width="1927" height="1087" alt="student-project-2" src="https://github.com/user-attachments/assets/08d19305-b8f3-4041-bc56-b0422e3f686e" />
 # Student Project
 
 A full-stack student management app with a React + Vite frontend and an Express + MongoDB backend.
