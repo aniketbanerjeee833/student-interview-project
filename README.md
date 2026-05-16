@@ -131,8 +131,10 @@ npm run dev
 - `npm run build` — build production frontend
 - `npm run preview` — preview production build
 
-## Notes
+## Notes<img width="1927" height="1087" alt="student-project-1" src="https://github.com/user-attachments/assets/2fd935d2-a6d6-46c0-af4b-5ec0fc6bcc6c" />
+
 
 - Backend routes are mounted under `/api`
 - Frontend forms use `react-hook-form` + `zod` validation
 - Sensitive data is encrypted before storage in MongoDB
+
